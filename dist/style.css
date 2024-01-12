@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+#game-board {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border: 2px solid #333;
+}
+
+#snake, #food {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
+
+#snake {
+    background-color: #00f;
+}
+
+#food {
+    background-color: #f00;
+}
+
+#game-over-screen {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+#game-over-screen button {
+    margin-top: 10px;
+}
