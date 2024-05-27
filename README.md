@@ -4,4 +4,4 @@ Simple Snake Game powered by AI! This game is created using HTML, CSS, and JavaS
 
 You can access the game from [Github Pages](https://ilocodes.github.io/Snake-Game-AI/).
 
-*Note: This is an experimental attempt to see if a game could be built by AI. It is not entirely correct. Once I develop my front-end skills, I would like to improve the game.*
+*Note: This is an experimental attempt to see if a game could be built by AI. The source code lacks simple features. Once I develop my front-end skills, I would like to improve the game.*
